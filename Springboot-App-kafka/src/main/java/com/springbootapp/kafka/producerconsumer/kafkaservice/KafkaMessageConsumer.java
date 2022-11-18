@@ -1,5 +1,6 @@
 package com.springbootapp.kafka.producerconsumer.kafkaservice;
 
+
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
@@ -11,6 +12,7 @@ public class KafkaMessageConsumer
 	public void consumeMessage(String message)
 	{
 		System.out.println("Consumed message:"+message+" from topic topic1");
+		
 	}
 
 }
