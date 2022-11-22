@@ -1,4 +1,4 @@
-package com.postgresql.user.rest;
+package com.user.rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.postgresql.user.rest;
+package com.user.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
